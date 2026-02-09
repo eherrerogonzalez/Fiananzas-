@@ -1,5 +1,4 @@
 {
-  "buildCommand": "echo 'Build complete'",
-  "outputDirectory": "mis-finanzas",
+  "public": "mis-finanzas",
   "cleanUrls": true
 }
